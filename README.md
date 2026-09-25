@@ -10,11 +10,11 @@ Associate of Science in Computer Science
 
 💻 Technical Skills
 Languages
-Python
-Java
-C
-C++
-SQL
+Python,
+Java,
+C,
+C++,
+
 Tools & Platforms
 Visual Studio Code
 IntelliJ IDEA
