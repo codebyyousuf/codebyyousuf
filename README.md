@@ -2,6 +2,7 @@
 Hi, I'm Yousuf Shaaya 👋
 
 🎓 Computer Engineering BA Student | San Diego State University
+
 Associate Degree in Computer Science | Grossmont College
 
 I'm a Computer Engineering student at San Diego State University with an interest in software development and full-stack development. I enjoy building projects that allow me to apply programming concepts to real-world problems while continuing to strengthen my technical foundation.
