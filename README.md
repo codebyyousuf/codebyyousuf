@@ -8,14 +8,16 @@ I'm a Computer Engineering student at San Diego State University with an interes
 Grossmont College — El Cajon, CA
 Associate of Science in Computer Science
 
-💻 Technical Skills
+💻 Technical Skills:
+
 Languages
 Python,
 Java,
 C,
 C++,
 
-Tools & Platforms
+Tools & Platforms:
+
 Visual Studio Code
 IntelliJ IDEA
 
